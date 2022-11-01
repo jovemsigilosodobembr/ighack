@@ -22,9 +22,9 @@
 <a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-## ABOUT TOOL :
+## SOBRE A FERRAMENTA :
 
-Ighack is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and. This tool works on both rooted Android device and Non-rooted Android device.
+Ighack é um script baseado em bash que é feito oficialmente para testar a força da senha da conta do instagram do termux com ataque de força bruta e. Esta ferramenta funciona em dispositivos Android com root e dispositivos Android sem root.
 
 <p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
@@ -49,7 +49,7 @@ Ighack is a bash based script which is officially made to test password strength
 * [+] tor usage !
 * [+] Easy for Beginners !
 
-## INSTALLATION [Termux] :
+## INSTALAÇÃO [Termux] :
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
@@ -57,7 +57,7 @@ Ighack is a bash based script which is officially made to test password strength
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/ighack`
+* `https://github.com/jovemsigilosodobembr/ighack`
 * `cd $HOME`
 * `ls`
 * `cd ighack`
@@ -65,24 +65,18 @@ Ighack is a bash based script which is officially made to test password strength
 * `bash setup`
 * `bash ighack.sh`
 ```
-[+]--Now you need internet connection to continue further process...
-
-[+]--You can select any option by clicking on your keyboard
-
-[+]--Note:- Don't delete any of the scripts included in core files
-
-[+]--new session and start TOR (tor) before starting the attack
+Tutorial de instalação 
 ```
 ## USAGE OPTIONS [Termux] :
 
 __AUTO ATTACK__ :
-- From this option you can start attack aon default pass list of tool.
+- A partir desta opção, você pode iniciar o ataque a uma lista de ferramentas padrão.
 
 __MANUAL ATTACK__ :
-- From this option you can select manual pass list and try to attack.
+- A partir desta opção, você pode selecionar a lista de passes manuais e tentar atacar.
 
 __ABOUT__ :
-- From this option you can know more about author.
+- A partir desta opção você pode saber mais sobre o autor.
 
 __UPDATE__ :
 - From this option you can update ighack tool if updates are available for that.
