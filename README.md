@@ -1,6 +1,8 @@
-☕
+<p align="center">
 <a href="https://www.youtube.com/s/gaming/emoji/0f0cae22/emoji_u2615.svg"></a>
 
+  ------------------------------------------------------------------------------------------------------------------------------------
+  -
 <p align="center">
 <a href="https://bit.ly/30yDbd5"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
