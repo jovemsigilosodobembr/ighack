@@ -92,7 +92,7 @@ __EXIT__ :
 <img width="45%" src="https://user-images.githubusercontent.com/49580304/96563953-6c298280-1277-11eb-9cf2-828b351168ae.jpg"/>
 </p>
 
-## WATCH VIDEO [Termux]
+## ASSISTIR VÍDEO [Termux]
 
 [![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
 
@@ -109,11 +109,7 @@ __EXIT__ :
 [![Instagram](https://img.shields.io/badge/DISCUSSION-FORUM-blue?style=for-the-badge&logo=forum)](https://rebrand.ly/nhforums)
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 
-## BUY ME A COFFEE :
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
-</p>
-
-## WARNING : 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+## AVISO : 
+***Esta ferramenta é apenas para fins educacionais. Se você usar esta ferramenta para outros fins, exceto educação, não seremos responsáveis ​​em tais casos.***
